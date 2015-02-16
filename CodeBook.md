@@ -1,6 +1,6 @@
-**x_test**: test data
-**x_train**: training data
-**dat**: merge x_test and x_train
+**x_test**: test data  
+**x_train**: training data  
+**dat**: merge x_test and x_train  
 **features**: column names of test data and training data
 **dat2**: dataset with only the measurements on the mean and standard deviation for each measurement, it contains 79 variables.
 **y_test**: test labels
